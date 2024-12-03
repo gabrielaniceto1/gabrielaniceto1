@@ -19,7 +19,9 @@
 
 ## Projetos:
 [Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0)
+<code><script console.log()></script></code>
 [FORJA Games](https://www.instagram.com/forjagame/)
+<code><script console.log()></script></code>
 [ENDONOUS](https://www.instagram.com/endonous_game/)
 
 ## GitHub Stats
