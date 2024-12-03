@@ -18,14 +18,8 @@
 <code><img height="32" src="https://cdn.sanity.io/images/fuvbjjlp/production/6d1df49565a2ad20ffa8386f1465ba52039133e3-1920x1080.png" alt="Unity"/></code>
 
 ## Projetos:
-[Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0)
-```python
-print("\n")
-```
-[FORJA Games](https://www.instagram.com/forjagame/)
-```python
-print("\n")
-```
+[Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0)<br>
+[FORJA Games](https://www.instagram.com/forjagame/)<br>
 [ENDONOUS](https://www.instagram.com/endonous_game/)
 
 ## GitHub Stats
