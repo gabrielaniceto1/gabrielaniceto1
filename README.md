@@ -1,8 +1,8 @@
 # Olá, humanos!
 ### Sou **Gabriel Aniceto** e aqui vocês vão encontrar um pouco mais sobre mim e meus projetos profissionais!
-##### <code><a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabrielaniceto1" alt="LinkedIn"/></a></code>
-<code><a href="#" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/aniceto.gabriel/" alt="Instagram"/></a></code>
-<code><a href="#" title="Gmail">
+##### <code><a href="www.linkedin.com/in/gabrielaniceto1" title="LinkedIn"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabrielaniceto1" alt="LinkedIn"/></a></code>
+<code><a href="https://www.instagram.com/aniceto.gabriel/" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/aniceto.gabriel/" alt="Instagram"/></a></code>
+<code><a href="gabriel.aniceto@hotmail.com" title="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabriel.aniceto@hotmail.com" alt="Gmail"/></a></code>
 
 ## Linguagens: 
