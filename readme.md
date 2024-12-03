@@ -13,9 +13,12 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Unity](https://cdn.sanity.io/images/fuvbjjlp/production/6d1df49565a2ad20ffa8386f1465ba52039133e3-1920x1080.png)
+<code><img height="32" src="https://cdn.sanity.io/images/fuvbjjlp/production/6d1df49565a2ad20ffa8386f1465ba52039133e3-1920x1080.png" alt="Unity"/></code>
 
-
+## Projetos:
+<code><img heigth="32" src="https://images.emojiterra.com/google/android-12l/512px/1f3d6.png" alt="Emoji Praia"/></code>[Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0)
+<code><img height="32" src="https://img.freepik.com/vetores-premium/pixel-art-do-martelo-bigorna-ferreiro_150088-1211.jpg" alt="Logo FORJA"/></code>[FORJA Games](https://www.instagram.com/forjagame/)
+<code><img heigth="32" src="https://cdn.discordapp.com/attachments/1293982192703377478/1301968730871304302/poster_3300x2550.png?ex=6750985e&is=674f46de&hm=8c956a14fcecc0b0ec4d6fc3be7e92d79289d65f9c47bccf0466d6c2838ae2c8&" alt="Capa Endonous"/></code>[ENDONOUS](https://www.instagram.com/endonous_game/)
 
 ## GitHub Stats
 
