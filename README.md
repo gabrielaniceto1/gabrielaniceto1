@@ -37,7 +37,8 @@ Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games
 ## 📚 Atualmente aprendendo:
 - 🐍 Python avançado
 - 🔒 Segurança da informação (cybersecurity)
-- ☁️ Deploy com AWS e GitHub Pages
+- ☁️ Deploy com AWS, Azure e GitHub Pages
+- 📊 Estruturas de Dados e Algoritmos (busca, ordenação, recursão, etc.)
 
 ## 🤝 Posso te ajudar com:
 - Aplicações com Django e Python
