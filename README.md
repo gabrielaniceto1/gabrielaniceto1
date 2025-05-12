@@ -29,6 +29,43 @@ Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+## 💬 Soft Skills (Desenvolvidas na prática)
+![Trabalho em equipe](https://img.shields.io/badge/🤝%20Trabalho%20em%20equipe-cyan?style=for-the-badge)
+![Resolução de problemas](https://img.shields.io/badge/🧠%20Resolução%20de%20problemas-blue?style=for-the-badge)
+![Disciplina](https://img.shields.io/badge/🎯%20Disciplina-purple?style=for-the-badge)
+![Comunicação clara](https://img.shields.io/badge/🗣️%20Comunicação%20clara-orange?style=for-the-badge)
+![Criatividade](https://img.shields.io/badge/💡%20Criatividade-yellow?style=for-the-badge)
+![Resiliência emocional](https://img.shields.io/badge/🧘‍♂️%20Resiliência%20emocional-lightgrey?style=for-the-badge)
+![Autodidatismo](https://img.shields.io/badge/📚%20Autodidata-brightgreen?style=for-the-badge)
+- 🤝 **Colaboração em equipe multidisciplinar**  
+  Desenvolvida atuando na **Forja Games**, colaborando com artistas, designers e programadores em projetos criativos e desafiadores.
+
+- 🧠 **Resolução de problemas e pensamento crítico**  
+  Fortalecida em projetos de programação (Python, C e Django), e ao lidar com bugs complexos e desafios técnicos em sala e fora dela.
+
+- 🎯 **Disciplina e foco em projetos de longo prazo**  
+  Evidenciada na criação do eBook **"The Last Drag"**, onde liderei todas as etapas — pesquisa, escrita, design e lançamento.
+
+- 🗣️ **Comunicação clara e empática**  
+  Desenvolvida ao ministrar aulas de basquete, transmitindo ideias de forma acessível e motivadora para jovens.
+
+- 💡 **Criatividade e iniciativa**  
+  Vista na concepção e estruturação de produtos digitais, sistemas de vendas, e automações para facilitar o dia a dia.
+
+- 🧘‍♂️ **Inteligência emocional e resiliência**  
+  Lapidada ao mudar de área (de Odontologia para Computação), e ao se manter constante diante de novos desafios acadêmicos e profissionais.
+
+- 📚 **Aprendizado autodirigido**  
+  Domínio autodidata de Git, marketing digital, vendas online e tecnologias como AWS, GitHub Pages, Raylib, entre outros.
+
+## 🌱 Meus Valores Profissionais
+
+🔎 **Transparência:** Acredito que a base de qualquer equipe sólida é a honestidade na comunicação.  
+⚙️ **Compromisso com a excelência:** Entrego soluções com cuidado, buscando não só o funcional, mas o impacto real.  
+🧭 **Proatividade:** Sempre busco formas de contribuir, mesmo além da minha área direta.  
+🎓 **Aprendizado constante:** Estou em constante evolução — sempre lendo, testando e aplicando novas ideias.  
+🤲 **Empatia:** Entendo que por trás de todo sistema há pessoas. Valorizo escuta ativa e colaboração verdadeira.
+
 ## 🚀Projetos:
 [Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0) – Plataforma de conscientização ambiental interativa.<br>
 [FORJA Games](https://www.instagram.com/forjagame/) – Estúdio colaborativo de desenvolvimento de jogos.<br>
