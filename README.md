@@ -1,5 +1,7 @@
-# Olá, humanos!
-###  Eu sou Gabriel Aniceto, desenvolvedor apaixonado por tecnologia e soluções que fazem a diferença. 
+<h1 align="center">Gabriel Aniceto</h1>
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia e soluções que fazem a diferença.
+</p> 
 Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games, e estou em constante evolução com foco em Python, C, IA e desenvolvimento web.
 
 ## 💼 Sobre mim:
