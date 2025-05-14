@@ -69,6 +69,7 @@ Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games
 🤲 **Empatia:** Entendo que por trás de todo sistema há pessoas. Valorizo escuta ativa e colaboração verdadeira.
 
 ## 🚀Projetos:
+[THE LAST DRAG](https://thelastdrag.anicsells.com/)
 [Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0) – Plataforma de conscientização ambiental interativa.<br>
 [FORJA Games](https://www.instagram.com/forjagame/) – Estúdio colaborativo de desenvolvimento de jogos.<br>
 [ENDONOUS](https://www.instagram.com/endonous_game/) – Jogo indie focado em narrativa e exploração psicológica.
