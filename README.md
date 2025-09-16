@@ -2,12 +2,11 @@
 <p align="center">
   Desenvolvedor apaixonado por tecnologia e soluções que fazem a diferença.
 </p> 
-Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games, e estou em constante evolução com foco em Python, C, IA e desenvolvimento web.
+Atualmente curso Ciência da Computação na CESAR School e estou em constante evolução com foco em Java, Python, C, IA e desenvolvimento web.
 
 ## 💼 Sobre mim:
 - 👨‍💻 Estudante de Ciência da Computação na CESAR School
-- 🧠 Interesse em IA, backend e desenvolvimento de web e de jogos
-- 🎮 Membro da Forja Games
+- 🧠 Interesse em IA, backend e desenvolvimento de web
 - 🌎 Sempre buscando novos desafios e aprendizados
 
 ## 🌐 Conecte-se comigo
@@ -27,6 +26,8 @@ Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games
 ## 🛠️Ferramentas:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,9 +74,6 @@ Atualmente curso Ciência da Computação na CESAR School, integro a Forja Games
 
 ## 🚀Projetos:
 [THE LAST DRAG](https://thelastdrag.anicsells.com/) - O Último Trago é um método que eu criei baseado em neurociência que ajuda fumantes a reprogramarem o cérebro e abandonarem o vício de forma definitiva, consciente e com o minimo de sofrimento.<br>
-[Ecos de Pernambuco](https://sites.google.com/cesar.school/ecosdepernambuco/in%C3%ADcio?authuser=0) – Plataforma de conscientização ambiental interativa.<br>
-[FORJA Games](https://www.instagram.com/forjagame/) – Estúdio colaborativo de desenvolvimento de jogos.<br>
-[ENDONOUS](https://www.instagram.com/endonous_game/) – Jogo indie focado em narrativa e exploração psicológica.
 
 ## 📚 Atualmente aprendendo:
 - 🐍 Python avançado
