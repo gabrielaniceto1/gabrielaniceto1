@@ -34,7 +34,8 @@ Atualmente curso Ciência da Computação na CESAR School e estou em constante e
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ## 💬 Soft Skills (Desenvolvidas na prática)
 ![Trabalho em equipe](https://img.shields.io/badge/🤝%20Trabalho%20em%20equipe-cyan?style=for-the-badge)
 ![Resolução de problemas](https://img.shields.io/badge/🧠%20Resolução%20de%20problemas-blue?style=for-the-badge)
