@@ -1,96 +1,140 @@
 <h1 align="center">Gabriel Aniceto</h1>
+
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia e soluções que fazem a diferença.
-</p> 
-Atualmente curso Ciência da Computação na CESAR School e estou em constante evolução com foco em Java, Python, C, IA e desenvolvimento web.
+  Desenvolvedor em formação, focado em backend, APIs, sistemas web e soluções que conectam tecnologia a problemas reais.
+</p>
 
-## 💼 Sobre mim:
-- 👨‍💻 Estudante de Ciência da Computação na CESAR School
-- 🧠 Interesse em IA, backend e desenvolvimento de web
-- 🌎 Sempre buscando novos desafios e aprendizados
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielaniceto1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aniceto.gabriel">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:gabriel.aniceto@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabrielaniceto1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aniceto.gabriel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.aniceto@hotmail.com)
+---
 
-## 🧠Linguagens: 
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação na CESAR School** e venho construindo minha base como desenvolvedor com foco em **backend, APIs REST, bancos de dados, integrações e aplicações web**.
+
+Atualmente estudo e desenvolvo projetos utilizando principalmente **Java com Spring Boot**, **PostgreSQL**, **Docker**, **React com TypeScript** e boas práticas de arquitetura para criar sistemas mais organizados, escaláveis e fáceis de manter.
+
+Gosto de transformar ideias em produtos reais, seja criando uma API, estruturando um banco de dados, desenvolvendo uma interface ou prototipando soluções para problemas do dia a dia.
+
+---
+
+## 🚀 Atualmente focado em
+
+- Desenvolvimento backend com **Java, Spring Boot e APIs REST**
+- Modelagem de dados com **PostgreSQL, JPA/Hibernate e Flyway**
+- Integrações entre sistemas usando **webhooks, filas e mensageria**
+- Frontend moderno com **React, TypeScript, HTML, CSS e JavaScript**
+- Arquitetura de software, boas práticas, testes e deploy
+- Segurança da informação e fundamentos de cibersegurança
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend e banco de dados
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Ferramentas
 
-## 🛠️Ferramentas:
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-FFC107?style=for-the-badge&logo=trello&logoColor=000000)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-## 💬 Soft Skills (Desenvolvidas na prática)
-![Trabalho em equipe](https://img.shields.io/badge/🤝%20Trabalho%20em%20equipe-cyan?style=for-the-badge)
-![Resolução de problemas](https://img.shields.io/badge/🧠%20Resolução%20de%20problemas-blue?style=for-the-badge)
-![Disciplina](https://img.shields.io/badge/🎯%20Disciplina-purple?style=for-the-badge)
-![Comunicação clara](https://img.shields.io/badge/🗣️%20Comunicação%20clara-orange?style=for-the-badge)
-![Criatividade](https://img.shields.io/badge/💡%20Criatividade-yellow?style=for-the-badge)
-![Resiliência emocional](https://img.shields.io/badge/🧘‍♂️%20Resiliência%20emocional-lightgrey?style=for-the-badge)
-![Autodidatismo](https://img.shields.io/badge/📚%20Autodidata-brightgreen?style=for-the-badge)
-- 🤝 **Colaboração em equipe multidisciplinar**  
-  Desenvolvida atuando na **Forja Games**, colaborando com artistas, designers e programadores em projetos criativos e desafiadores.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
 
-- 🧠 **Resolução de problemas e pensamento crítico**  
-  Fortalecida em projetos de programação (Python, C e Django), e ao lidar com bugs complexos e desafios técnicos em sala e fora dela.
+---
 
-- 🎯 **Disciplina e foco em projetos de longo prazo**  
-  Evidenciada na criação do eBook **"The Last Drag"**, onde liderei todas as etapas — pesquisa, escrita, design e lançamento.
+## 📌 Projetos em destaque
 
-- 🗣️ **Comunicação clara e empática**  
-  Desenvolvida ao ministrar aulas de basquete, transmitindo ideias de forma acessível e motivadora para jovens.
+### 🔹 [Catalisa Dashboard](https://github.com/Lucasmenezes08/catalisaDashboard)
+Plataforma full stack para análise de satisfação de clientes, com coleta de dados via experiência interativa e dashboard para visualização de métricas como **NPS**, **CSAT** e análise qualitativa de feedbacks.
 
-- 💡 **Criatividade e iniciativa**  
-  Vista na concepção e estruturação de produtos digitais, sistemas de vendas, e automações para facilitar o dia a dia.
+**Tecnologias:** Java, Spring Boot, React, TypeScript, PostgreSQL, JPA/Hibernate, Flyway, REST API.
 
-- 🧘‍♂️ **Inteligência emocional e resiliência**  
-  Lapidada ao mudar de área (de Odontologia para Computação), e ao se manter constante diante de novos desafios acadêmicos e profissionais.
+### 🔹 [BomberRush](https://github.com/iampassos/bomber-rush)
+Jogo inspirado no estilo Bomberman, desenvolvido em C, com foco em lógica de gameplay, colisões, power-ups, dificuldade progressiva e estruturação de projeto em baixo nível.
 
-- 📚 **Aprendizado autodirigido**  
-  Domínio autodidata de Git, marketing digital, vendas online e tecnologias como AWS, GitHub Pages, Raylib, entre outros.
+**Tecnologias:** C, Raylib, SDL2, Makefile.
 
-## 🌱 Meus Valores Profissionais
+### 🔹 [The Last Drag](https://thelastdrag.anicsells.com/)
+Produto digital e landing page voltados para ajudar fumantes a abandonarem o vício de forma consciente, com abordagem baseada em neurociência, reprogramação de hábitos e estratégia de vendas digital.
 
-🔎 **Transparência:** Acredito que a base de qualquer equipe sólida é a honestidade na comunicação.  
-⚙️ **Compromisso com a excelência:** Entrego soluções com cuidado, buscando não só o funcional, mas o impacto real.  
-🧭 **Proatividade:** Sempre busco formas de contribuir, mesmo além da minha área direta.  
-🎓 **Aprendizado constante:** Estou em constante evolução — sempre lendo, testando e aplicando novas ideias.  
-🤲 **Empatia:** Entendo que por trás de todo sistema há pessoas. Valorizo escuta ativa e colaboração verdadeira.
+**Tecnologias:** HTML, CSS, JavaScript, copywriting, produto digital e marketing.
 
-## 🚀Projetos:
-[THE LAST DRAG](https://thelastdrag.anicsells.com/) - O Último Trago é um método que eu criei baseado em neurociência que ajuda fumantes a reprogramarem o cérebro e abandonarem o vício de forma definitiva, consciente e com o minimo de sofrimento.<br>
+---
 
-## 📚 Atualmente aprendendo:
-- 🐍 Python avançado
-- 🔒 Segurança da informação (cybersecurity)
-- ☁️ Deploy com AWS, Azure e GitHub Pages
-- 📊 Estruturas de Dados e Algoritmos (busca, ordenação, recursão, etc.)
+## 📚 Em evolução constante
 
-## 🤝 Posso te ajudar com:
-- Aplicações com Django e Python
-- Prototipação de jogos e desenvolvimento em C
-- Criação de páginas web (HTML, CSS, JS)
+Atualmente venho aprofundando meus estudos em:
 
+- Arquitetura backend com Spring Boot
+- Microsserviços, mensageria e integrações entre sistemas
+- PostgreSQL, performance de consultas e modelagem relacional
+- Docker, deploy e infraestrutura básica em nuvem
+- Testes automatizados e documentação de APIs
+- Cibersegurança aplicada ao desenvolvimento de software
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielaniceto1&show_icons=true&theme=radical)
-[![Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielaniceto1&theme=github-compact)](https://github.com/gabrielaniceto1)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaniceto1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🤝 Soft skills
+
+- Comunicação clara e objetiva
+- Resolução de problemas
+- Trabalho em equipe
+- Organização e disciplina
+- Aprendizado autodirigido
+- Criatividade para transformar ideias em soluções práticas
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaniceto1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaniceto1&layout=compact&theme=radical" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielaniceto1&theme=github-compact" />
+</div>
+
+---
+
+<p align="center">
+  Sempre aprendendo, construindo e buscando transformar conhecimento em soluções reais.
+</p>
